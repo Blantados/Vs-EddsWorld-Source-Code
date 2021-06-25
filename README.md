@@ -1,4 +1,4 @@
-# VS EDDSWORLD MOD
+# VS EddsWorld MOD SOURCE CODE
 
 This is the repository for the Friday Night Funkin' Mod "VS EddsWorld" by enraged_artist & Blantados.
 
